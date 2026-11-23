@@ -2,23 +2,17 @@
  * CUB³D site settings. This is the only file to edit when connecting
  * the signup form and the booking button. See README.md.
  *
- * While the Google Form values are still "TODO", a signup is NOT saved.
- * The visitor still goes to thank-you.html, and the browser console logs
- * a warning. This site never sends email.
+ * This site never sends email.
  *
  * While BOOKING_URL is empty, the booking buttons open an email to
  * natalyvidales@gmail.com instead of a calendar page.
  */
 window.CUBED_CONFIG = {
-  // TODO: Google Form response URL, for example
-  // "https://docs.google.com/forms/d/e/1FAIpQLSxxxxxxxx/formResponse"
-  GOOGLE_FORM_ACTION: "TODO",
+  GOOGLE_FORM_ACTION: "https://docs.google.com/forms/d/e/1FAIpQLSfyufBalAZ2JRt_7W8dqlQHfWtY0AVaB8sThVyAwB08alEXcg/formResponse",
 
-  // TODO: entry IDs from the form's "Get pre-filled link".
-  // Keep the entry. prefix, for example "entry.1234567890".
-  ENTRY_FIRST_NAME: "TODO",
-  ENTRY_EMAIL: "TODO",
-  ENTRY_TRADE: "TODO",
+  ENTRY_FIRST_NAME: "entry.585406023",
+  ENTRY_EMAIL: "entry.1528004490",
+  ENTRY_TRADE: "entry.1983906015",
 
   // TODO: Google Calendar appointment-schedule link.
   // Leave this empty until the link exists.
