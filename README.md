@@ -72,7 +72,7 @@ The same thing happens if the action URL or any entry ID is missing or still a p
 2. Copy the booking page link (it starts with `https://`).
 3. Paste it as `BOOKING_URL` and push `config.js`.
 
-While `BOOKING_URL` is empty, both **Let’s Talk About Your Business.** buttons open `mailto:newlandgc@gmail.com?subject=Intro%20call`. After it is set, those buttons open the calendar link in a new tab.
+While `BOOKING_URL` is empty, both **Let’s Talk About Your Business.** buttons open `mailto:natalyvidales@gmail.com?subject=Intro%20call`. After it is set, those buttons open the calendar link in a new tab.
 
 ## Follow-up emails
 

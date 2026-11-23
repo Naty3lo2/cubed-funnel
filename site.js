@@ -1,6 +1,6 @@
 /* Signup form and booking links. Reads window.CUBED_CONFIG from config.js. */
 (function () {
-  var MAILTO = "mailto:newlandgc@gmail.com?subject=Intro%20call";
+  var MAILTO = "mailto:natalyvidales@gmail.com?subject=Intro%20call";
   var TRADES = [
     "General Contractor",
     "Remodeling",

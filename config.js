@@ -7,7 +7,7 @@
  * a warning. This site never sends email.
  *
  * While BOOKING_URL is empty, the booking buttons open an email to
- * newlandgc@gmail.com instead of a calendar page.
+ * natalyvidales@gmail.com instead of a calendar page.
  */
 window.CUBED_CONFIG = {
   // TODO: Google Form response URL, for example
